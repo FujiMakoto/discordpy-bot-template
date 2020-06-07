@@ -1,0 +1,11 @@
+# Local configuration file
+config.ini
+
+# Database files
+*.sqlite
+
+# JetBrains
+.idea/*
+
+# Virtual environment
+venv/*
